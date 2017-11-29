@@ -144,6 +144,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 🇬🇧 [Use Dalek.js for UI testing](https://www.pressreader.com/australia/net-magazine/20140225/281621008281406) | net Magazine, February 2014
 - 🇩🇪 [Unschöne neue Welt](https://www.heise.de/developer/meldung/Neues-Sonderheft-Entwickeln-fuer-das-Internet-der-Dinge-am-Kiosk-verfuegbar-3038452.html) | iX Sonderheft: Entwickeln für das Internet der Dinge, December 2015
 
+<hr>
 <p align="center">
   Thanks to <a href="https://github.com/dkundel/about-me/blob/master/README.md">Dominik</a> for letting me generously borrow this template :)
 </p>
