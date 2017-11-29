@@ -33,6 +33,8 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 🗣 [Speakerdex asciidisco](https://speakerdex.co/asciidisco)
 - 🎯 [Colloq asciidisco](https://colloq.io/users/asciidisco)
 - 🏅 [Lanyrd asciidisco](https://lanyrd.com/asciidisco)
+- 🌀 [LinkedIn](https://www.linkedin.com/in/sebastian-golasch-b857034a/)
+- 💈 [Xing](https://www.xing.com/profile/Sebastian_Golasch)
 
 ## 💚 Misc.
 
