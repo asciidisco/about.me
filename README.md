@@ -88,6 +88,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 | [JSCamp](http://jscamp.ro/) | Bucharest,&nbsp;🇷🇴 | June, 2016 | 🇬🇧 &nbsp;MCing | &nbsp; |
 | [JSCamp](http://jscamp.ro/) | Bucharest,&nbsp;🇷🇴 | June, 2016 | 🇬🇧&nbsp; Oh my IoT | [🖥 Slides](http://iot.asciidisco.com/#/) <br> [📹 Video](https://www.youtube.com/watch?v=t32kAptlhLU) |
 | Typo3 User Group Cologne | Cologne,&nbsp;🇩🇪 | December, 2015 | 🇩🇪 &nbsp;Level-DB | [🖥 Slides](http://ldb.asciidisco.com) |
+| IoT FFM Meetup | Frankfurt,&nbsp;🇩🇪 | November, 2015 | 🇩🇪 &nbsp;The current state of IoT libraries in Node.js | [🖥 Slides](http://iotffm.asciidisco.com) |
 | [CodeTalks](https://www.codetalks.de) | Hamburg,&nbsp;🇩🇪 | September, 2015 | 🇩🇪&nbsp; [Tales from the crypt: JavaScript & the Internet of Things](https://www.codetalks.de/de/2015/speaker/sebastian-golasch) | [🖥 Slides](http://iot.asciidisco.com/#/) |
 | [WebWorker NRW Meetup](http://webworker-nrw.de/1508-august-2015/index.html) | Düsseldorf,&nbsp;🇩🇪 | August, 2015 | 🇩🇪 &nbsp;Geschichten aus der Gruft: JavaScript und das Internet der Dinge | [🖥 Slides](http://iot.asciidisco.com/#/) |
 | [EnterJS](http://www.enterjs.de/archive/2015/) | Darmstadt,&nbsp;🇩🇪 | June, 2015 | 🇩🇪 &nbsp;[Tales from the crypt: JavaScript & the Internet of Things](http://www.enterjs.de/archive/2015/abstracts.html#IoT) | [🖥 Slides](http://iot.asciidisco.com/#/) |
