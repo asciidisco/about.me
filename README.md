@@ -53,7 +53,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 💻 Open Source Projects
 
-- [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) | A native Netflix streaming plugin for the Kodi Media Center (Python)
+- [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) | A native Netflix streaming plugin for the Kodi Media Center 🄿🅈🅃🄷🄾🄽
 - [plugin.video.telekom-sport](https://github.com/asciidisco/plugin.video.telekom-sport) | A native Telekom Sport streaming plugin for the Kodi Media Center (Python)
 - [kodi-release-helper](https://github.com/asciidisco/kodi-release-helper) | A changelog & release generator for Kodi Medai Center Plugins (Python)
 - [require-po-plugin](https://github.com/asciidisco/require-po-plugin) | A require.js plugin for loading & transpiling Gettext files (JavaScript) [Unmnaintained]
