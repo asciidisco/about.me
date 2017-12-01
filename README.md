@@ -53,31 +53,31 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 💻 Open Source Projects
 
-- [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) | A native Netflix streaming plugin for the Kodi Media Center 🄿🅈🅃🄷🄾🄽
-- [plugin.video.telekom-sport](https://github.com/asciidisco/plugin.video.telekom-sport) | A native Telekom Sport streaming plugin for the Kodi Media Center (Python)
-- [kodi-release-helper](https://github.com/asciidisco/kodi-release-helper) | A changelog & release generator for Kodi Medai Center Plugins (Python)
-- [require-po-plugin](https://github.com/asciidisco/require-po-plugin) | A require.js plugin for loading & transpiling Gettext files (JavaScript) [Unmnaintained]
-- [sloccount](https://github.com/asciidisco/sloccount) | A lines of code & comments counter for JS, CSS & HTML (JavaScript) [Unmnaintained]
-- [serveit2](https://github.com/asciidisco/serveit2) | A static webserver cmd utility for quickly spawning a HTTP-2 capable webserver (JavaScript) [Unmnaintained]
-- [node-homeland](https://github.com/asciidisco/node-homeland) | A usb driver & protocol abstraction for the HomeMatic BidCos Smarthome protocol (JavaScript) [Unmnaintained]
-- [grunt-qunit-istanbul](https://github.com/asciidisco/grunt-qunit-istanbul) | Running code coverage analysis with Grunt, QUnit & PhantomJS (JavaScript) [Unmnaintained]
-- [awb2ics](https://github.com/asciidisco/awb2ics) | Module & Webfrontend to genrate ICS calendar files for garbage collection in Cologne (JavaScript) 
-- [fhem-discovergy](https://github.com/asciidisco/fhem-discovergy) | FHEM Homeautomation Addon for Discovergy smart meters (Perl)
-- [grunt-imagine](https://github.com/asciidisco/grunt-imagine) | Grunt plugin for image optimization & sprite genration (JavaScript) [Unmnaintained]
-- [grunt-requirejs](https://github.com/asciidisco/grunt-requirejs) | Grunt plugin for building optimized projects with Require.js (JavaScript) [Unmnaintained]
-- [grunt-sloccount](https://github.com/asciidisco/grunt-sloccount) | Grunt lines of code & comments counter for JS, CSS & HTML (JavaScript) [Unmnaintained]
-- [Backbone.Marionette.Handlebars](https://github.com/asciidisco/Backbone.Marionette.Handlebars) | Easy to use Handlebars templating integration for Backbone Marionette projects (JavaScript) [Unmnaintained]
-- [Backbone.Mutators](https://github.com/asciidisco/Backbone.Mutators) | Dynamic getters & setters for Backbone (JavaScript) [Unmnaintained]
-- [Backbone.Rpc](https://github.com/asciidisco/Backbone.Rpc) | JSON RPC plugin for Backbone (JavaScript) [Unmnaintained]
-- [grunt-jquerybuilder](https://github.com/asciidisco/grunt-jquerybuilder) | Grunt plugin for building optimized jQuery versions for your project (JavaScript) [Unmnaintained]
-- [grunt-patternprimer](https://github.com/asciidisco/grunt-patternprimer) | Grunt based adaption of Jeremy Keiths Patterprimer (JavaScript) [Unmnaintained]
-- [grunt-documantix](https://github.com/asciidisco/grunt-documantix) | Grunt documentation generator (JavaScript) [Unmnaintained]
-- [bower-pi](https://github.com/asciidisco/bower-pi) | Bower dependency version checker & updater (JavaScript) [Unmnaintained]
-- [Backbone.Chosen](https://github.com/asciidisco/Backbone.Chosen) | Use different models in your Backbone collections (JavaScript) [Unmnaintained]
-- [require-messageformat-plugin](https://github.com/asciidisco/require-messageformat-plugin) | A require.js plugin for loading & transpiling Messageformat JSON files (JavaScript) [Unmnaintained]
-- [grunt-backbonebuilder](https://github.com/asciidisco/grunt-backbonebuilder) | Grunt plugin for building optimized Backbone versions for your project (JavaScript) [Unmnaintained]
-- [grunt-lodashbuilder](https://github.com/asciidisco/grunt-lodashbuilder) | Grunt plugin for building optimized LoDash versions for your project (JavaScript) [Unmnaintained]
-- [firefox-element-screenshots](https://github.com/asciidisco/firefox-element-screenshots) | Instrument Firefox from the terminal to take screenshots of specified elements from a webpage (JavaScript) [Unmnaintained]
+- [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) | A native Netflix streaming plugin for the Kodi Media Center  | 🄿🅈🅃🄷🄾🄽
+- [plugin.video.telekom-sport](https://github.com/asciidisco/plugin.video.telekom-sport) | A native Telekom Sport streaming plugin for the Kodi Media Center  | 🄿🅈🅃🄷🄾🄽
+- [kodi-release-helper](https://github.com/asciidisco/kodi-release-helper) | A changelog & release generator for Kodi Medai Center Plugins  | 🄿🅈🅃🄷🄾🄽
+- [require-po-plugin](https://github.com/asciidisco/require-po-plugin) | A require.js plugin for loading & transpiling Gettext files  | 🄹🅂 [Unmnaintained]
+- [sloccount](https://github.com/asciidisco/sloccount) | A lines of code & comments counter for JS, CSS & HTML| 🄹🅂 [Unmnaintained]
+- [serveit2](https://github.com/asciidisco/serveit2) | A static webserver cmd utility for quickly spawning a HTTP-2 capable webserver| 🄹🅂 [Unmnaintained]
+- [node-homeland](https://github.com/asciidisco/node-homeland) | A usb driver & protocol abstraction for the HomeMatic BidCos Smarthome protocol| 🄹🅂 [Unmnaintained]
+- [grunt-qunit-istanbul](https://github.com/asciidisco/grunt-qunit-istanbul) | Running code coverage analysis with Grunt, QUnit & PhantomJS| 🄹🅂 [Unmnaintained]
+- [awb2ics](https://github.com/asciidisco/awb2ics) | Module & Webfrontend to genrate ICS calendar files for garbage collection in Cologne| 🄹🅂
+- [fhem-discovergy](https://github.com/asciidisco/fhem-discovergy) | FHEM Homeautomation Addon for Discovergy smart meters | 🄿🄴🅁🄻
+- [grunt-imagine](https://github.com/asciidisco/grunt-imagine) | Grunt plugin for image optimization & sprite genration| 🄹🅂 [Unmnaintained]
+- [grunt-requirejs](https://github.com/asciidisco/grunt-requirejs) | Grunt plugin for building optimized projects with Require.js| 🄹🅂 [Unmnaintained]
+- [grunt-sloccount](https://github.com/asciidisco/grunt-sloccount) | Grunt lines of code & comments counter for JS, CSS & HTML| 🄹🅂 [Unmnaintained]
+- [Backbone.Marionette.Handlebars](https://github.com/asciidisco/Backbone.Marionette.Handlebars) | Easy to use Handlebars templating integration for Backbone Marionette projects| 🄹🅂 [Unmnaintained]
+- [Backbone.Mutators](https://github.com/asciidisco/Backbone.Mutators) | Dynamic getters & setters for Backbone| 🄹🅂 [Unmnaintained]
+- [Backbone.Rpc](https://github.com/asciidisco/Backbone.Rpc) | JSON RPC plugin for Backbone| 🄹🅂 [Unmnaintained]
+- [grunt-jquerybuilder](https://github.com/asciidisco/grunt-jquerybuilder) | Grunt plugin for building optimized jQuery versions for your project | 🄹🅂 [Unmnaintained]
+- [grunt-patternprimer](https://github.com/asciidisco/grunt-patternprimer) | Grunt based adaption of Jeremy Keiths Patterprimer| 🄹🅂 [Unmnaintained]
+- [grunt-documantix](https://github.com/asciidisco/grunt-documantix) | Grunt documentation generator| 🄹🅂 [Unmnaintained]
+- [bower-pi](https://github.com/asciidisco/bower-pi) | Bower dependency version checker & updater| 🄹🅂 [Unmnaintained]
+- [Backbone.Chosen](https://github.com/asciidisco/Backbone.Chosen) | Use different models in your Backbone collections| 🄹🅂 [Unmnaintained]
+- [require-messageformat-plugin](https://github.com/asciidisco/require-messageformat-plugin) | A require.js plugin for loading & transpiling Messageformat JSON files| 🄹🅂 [Unmnaintained]
+- [grunt-backbonebuilder](https://github.com/asciidisco/grunt-backbonebuilder) | Grunt plugin for building optimized Backbone versions for your project| 🄹🅂 [Unmnaintained]
+- [grunt-lodashbuilder](https://github.com/asciidisco/grunt-lodashbuilder) | Grunt plugin for building optimized LoDash versions for your project| 🄹🅂 [Unmnaintained]
+- [firefox-element-screenshots](https://github.com/asciidisco/firefox-element-screenshots) | Instrument Firefox from the terminal to take screenshots of specified elements from a webpage| 🄹🅂 [Unmnaintained]
 
 ## 🗣 Past Presentations
 
