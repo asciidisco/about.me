@@ -147,10 +147,10 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ### 📰 Print
 
-- 🇩🇪 [Roboto Arduino](https://screengui.de/17/arduino) | Screenguide #17, March 2013
-- 🇩🇪 Dalek.js | PHP Magazine #17, January 2014
-- 🇬🇧 [Use Dalek.js for UI testing](https://www.pressreader.com/australia/net-magazine/20140225/281621008281406) | net Magazine, February 2014
 - 🇩🇪 [Unschöne neue Welt](https://www.heise.de/developer/meldung/Neues-Sonderheft-Entwickeln-fuer-das-Internet-der-Dinge-am-Kiosk-verfuegbar-3038452.html) | iX Sonderheft: Entwickeln für das Internet der Dinge, December 2015
+- 🇬🇧 [Use Dalek.js for UI testing](https://www.pressreader.com/australia/net-magazine/20140225/281621008281406) | net Magazine, February 2014
+- 🇩🇪 Dalek.js | PHP Magazine #17, January 2014
+- 🇩🇪 [Roboto Arduino](https://screengui.de/17/arduino) | Screenguide #17, March 2013
 
 <hr>
 <p align="center">
