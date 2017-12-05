@@ -12,6 +12,7 @@
     ∙ Co-Founder of <a target="_blank" href="https://www.nightlybuild.io">Nightlybuild</a>! ∙<br>
     ∙ Former <a href="https://coderdojo-nbg.org/mentoren/mentor/sebastian-golasch-4/7ab986990fc0f152d028042ad45ecd52/details.html">CoderDojo</a> Mentor ∙<br>    
     ∙ Abandoner of GitHub Repos ∙<br>
+    ∙ My 💖 beats for the Web ∙<br>
   </p>
 </p>
 
