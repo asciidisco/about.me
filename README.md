@@ -137,7 +137,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ### 🌐 Online
 
-- 🇬🇧 [Our productivity is in a constant state of flux](https://superyesmore.com/preview/article/4e6ba5956bc794ed32a1b88190c8089e) | December 05, 2017
+- 🇬🇧 [Our productivity is in a constant state of flux](https://superyesmore.com/preview/article/4e6ba5956bc794ed32a1b88190c8089e) | December 11, 2017
 - 🇩🇪 [Acht Wege zur stetigen Qualitätskontrolle – Teil 2](http://webkrauts.de/artikel/2014/acht-wege-zur-stetigen-qualitaetskontrolle-teil-2) | December 16, 2014
 - 🇩🇪 [Acht Wege zur stetigen Qualitätskontrolle – Teil 1](http://webkrauts.de/artikel/2014/acht-wege-zur-stetigen-qualitaetskontrolle-teil-1) | December 15, 2014
 - 🇬🇧 [Webdriver tutorial for Webplatform](https://gist.github.com/asciidisco/1ca6804626c60a9a67669dfe76528269) | June, 2014 (seems to have gotten lost when Web Platform went down)
