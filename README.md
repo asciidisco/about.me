@@ -18,6 +18,14 @@
 
 ---
 
+## Support me for Open Source Work, Writing, Speaking
+
+ - PayPal <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=public%40asciidisco%2ecom&lc=ER&item_name=asciidisco&no_note=0&cn=Mitteilung%20an%20den%20H%c3%a4ndler%3a&no_shipping=2&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted">
+<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" alt="PayPal - The safer, easier way to pay online!">
+</a>
+
+- Librepay <a href="https://liberapay.com/asciidisco/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 ## 👨‍💻 Biography
 
 Sebastian works as a “Specialist Senior Manager Software Developer” at Deutsche Telekom, after some time developing backend applications with Java and PHP he became a citizen of the JavaScript world. 
@@ -44,6 +52,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 😂 [Punked by Böhmermann](https://entwickler.de/online/blog/punked-by-boehmermann-185362.html)
 - 🤖 [Dalek.js](http://dalekjs.com) My failed attempt to make UI testing accessible for everyone
 - 📰 [Articles I recommend](https://getpocket.com/@asciidisco)
+- 🐰 [List of Web Conferences 2018 I curate](https://github.com/asciidisco/web-conferences-2018)
 
 ## 💬 Current Talk Topics
 
