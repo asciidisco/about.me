@@ -43,6 +43,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 🌀 [LinkedIn](https://www.linkedin.com/in/sebastian-golasch-b857034a/)
 - 💈 [Xing](https://www.xing.com/profile/Sebastian_Golasch)
 - 📰 [Medium @asciidisco](https://medium.com/@asciidisco)
+- 🐞 [Stack Overflow](https://stackoverflow.com/users/2169507/sebastian-golasch)
 
 ## 💚 Misc.
 
