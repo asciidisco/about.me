@@ -61,7 +61,8 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [EME? CDM? DRM? CENC? IDK! @ O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | 🇺🇸 San José CA, USA | Thursday, June 14 2018 - 11:00am
+- [The dark ages of IoT @ MIXIT 2018](https://mixitconf.org/en/2018/the-dark-ages-of-iot) | 🇫🇷  Nice, France | Thursday, April 19 2018
+- [EME? CDM? DRM? CENC? IDK! @ O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | 🇺🇸  San José CA, USA | Thursday, June 14 2018 - 11:00am
 
 ## 💻 Open Source Projects
 
