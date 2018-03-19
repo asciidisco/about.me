@@ -146,8 +146,11 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 📻 Podcasts
 
+- 🇩🇪 Workingdraft - [Revision 153: Typecsset und die Web Speech API](http://workingdraft.de/153/)
 - 🇩🇪 Workingdraft - [Revision 132: Rund ums Testen](http://workingdraft.de/132/)
 - 🇩🇪 Workingdraft - [Revision 105: CSS-Performance, Web Workers und ein paar Links](http://workingdraft.de/105/)
+- 🇩🇪 Workingdraft - [Revision 86: CAS und Object.observe](http://workingdraft.de/86/)
+- 🇩🇪 Workingdraft - [Revision 76: Testen, Dokumentieren und Abhängigkeiten verwalten](http://workingdraft.de/76/)
 
 ## ✏️ Technical Writing
 
