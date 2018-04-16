@@ -63,10 +63,10 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [The dark ages of IoT @ MIXIT 2018](https://mixitconf.org/en/2018/the-dark-ages-of-iot) | 🇫🇷  Lyon, France | Thursday, April 19 2018
-- [Your cyclomatic complexity is so 1.9,76 @ DevExpereince](http://devexperience.ro/speakers/sebastian-golasch/) | 🇷🇴 Iasi, Romania | Monday, April 23 2018
-- [The dark ages of IoT @ WeAreDevelopers](https://www.wearedevelopers.com/) | 🇦🇹  Vienna, Austria | Friday, May 18 2018
-- [EME? CDM? DRM? CENC? IDK! @ HolyJS](https://holyjs-piter.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 St.Petersburg, Russia | Saturday, May 19 2018
+- [The dark ages of IoT @ MIXIT 2018](https://mixitconf.org/en/2018/the-dark-ages-of-iot) | 🇫🇷  Lyon, France | Friday, April 20 2018 - 4:20pm (Room Turing)
+- [Your cyclomatic complexity is so 1.9,76 @ DevExpereince](http://devexperience.ro/speakers/sebastian-golasch/) | 🇷🇴 Iasi, Romania | Monday, April 23 2018 - 2:30pm (track Frontend)
+- [The dark ages of IoT @ WeAreDevelopers](https://www.wearedevelopers.com/) | 🇦🇹  Vienna, Austria | Wednesday, May 16 2018 - 4:30pm (Stage D)
+- [EME? CDM? DRM? CENC? IDK! @ HolyJS](https://holyjs-piter.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 St.Petersburg, Russia | Saturday, May 19 2018 - 4:45pm (Track 1)
 - [The dark ages of IoT @ AmsterdamJS](https://amsterdamjs.com/) | 🇳🇱  Amsterdam, The Netherlands | Friday, June 1 2018
 - [EME? CDM? DRM? CENC? IDK! @ Webinale](https://webinale.de/web-architecture/eme-cdm-drm-cenc-idk/) | 🇩🇪  Berlin, Germany | Tuesday, June 5 2018 - 4:45pm
 - [EME? CDM? DRM? CENC? IDK! @ O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | 🇺🇸  San José CA, USA | Thursday, June 14 2018 - 11:00am
