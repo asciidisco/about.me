@@ -70,6 +70,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - [The dark ages of IoT @ AmsterdamJS](https://amsterdamjs.com/) | 🇳🇱  Amsterdam, The Netherlands | Friday, June 1 2018
 - [EME? CDM? DRM? CENC? IDK! @ Webinale](https://webinale.de/web-architecture/eme-cdm-drm-cenc-idk/) | 🇩🇪  Berlin, Germany | Tuesday, June 5 2018 - 4:45pm
 - [EME? CDM? DRM? CENC? IDK! @ O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | 🇺🇸  San José CA, USA | Thursday, June 14 2018 - 11:00am
+- [Your cyclomatic complexity is so 1.9,76 @ Fullstack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#program) | 🇬🇧  London, England | Wednesday, July - 3:45pm (Room 1)
 
 ## 💻 Open Source Projects
 
