@@ -63,8 +63,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [The dark ages of IoT @ MIXIT 2018](https://mixitconf.org/en/2018/the-dark-ages-of-iot) | 🇫🇷  Lyon, France | Friday, April 20 2018 - 4:20pm (Room Turing)
-- [Your cyclomatic complexity is so 1.9,76 @ DevExpereince](http://devexperience.ro/speakers/sebastian-golasch/) | 🇷🇴 Iasi, Romania | Monday, April 23 2018 - 2:30pm (track Frontend)
 - [The dark ages of IoT @ WeAreDevelopers](https://www.wearedevelopers.com/) | 🇦🇹  Vienna, Austria | Wednesday, May 16 2018 - 4:30pm (Stage D)
 - [EME? CDM? DRM? CENC? IDK! @ HolyJS](https://holyjs-piter.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 St.Petersburg, Russia | Saturday, May 19 2018 - 4:45pm (Track 1)
 - [The dark ages of IoT @ AmsterdamJS](https://amsterdamjs.com/) | 🇳🇱  Amsterdam, The Netherlands | Friday, June 1 2018
@@ -106,6 +104,8 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
+| [DevExperience](http://devexperience.ro/) | Iasi,&nbsp;🇷🇴 | April, 2018 | 🇬🇧 &nbsp;[Your cyclomatic complexity is so 1.9,76](https://speakerdex.co/asciidisco/your-cyclomatic-complexity-is-so-1-9-76-a1b30459) | [🖥 Slides](https://de.slideshare.net/asciidisco/your-cyclomatic-complexity-is-so-1976) |
+| [MiXit](https://mixitconf.org/en/) | Lyon,&nbsp;🇫🇷 | April, 2018 | 🇬🇧 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
 | [EnterJS](https://enterjs.de) | Darmstadt,&nbsp;🇩🇪 | June, 2017 | 🇩🇪 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
 | [International PHP Conference Spring 2017](https://phpconference.com/de/) | Berlin,&nbsp;🇩🇪 | June, 2017 | 🇬🇧 &nbsp;[The dark ages of IoT](https://phpconference.com/javascript/the-dark-age-of-iot/) | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
 | [JSCamp](http://jscamp.ro/) | Bucharest,&nbsp;🇷🇴 | June, 2016 | 🇬🇧 &nbsp;MCing | &nbsp; |
