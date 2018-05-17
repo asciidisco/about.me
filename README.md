@@ -104,7 +104,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [WeAreDevelopers](https://www.wearedevelopers.com/) | Vienna,&nbsp;🇦🇹 | May, 2018 | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
+| [WeAreDevelopers](https://www.wearedevelopers.com/) | Vienna,&nbsp;🇦🇹 | May, 2018 | 🇬🇧 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | &nbsp;[🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
 | [DevExperience](http://devexperience.ro/) | Iasi,&nbsp;🇷🇴 | April, 2018 | 🇬🇧 &nbsp;[Your cyclomatic complexity is so 1.9,76](https://speakerdex.co/asciidisco/your-cyclomatic-complexity-is-so-1-9-76-a1b30459) | [🖥 Slides](https://de.slideshare.net/asciidisco/your-cyclomatic-complexity-is-so-1976) |
 | [MiXit](https://mixitconf.org/en/) | Lyon,&nbsp;🇫🇷 | April, 2018 | 🇬🇧 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
 | [EnterJS](https://enterjs.de) | Darmstadt,&nbsp;🇩🇪 | June, 2017 | 🇩🇪 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
