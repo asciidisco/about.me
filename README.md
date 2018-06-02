@@ -54,6 +54,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 🐰 [List of Web Conferences 2018 I curate](https://github.com/asciidisco/web-conferences-2018)
 - 🎤 [Interview for Amsterdam JS](https://medium.com/@amsterdamjs/sebastian-golasch-crazy-hacks-suit-iot-just-as-much-as-frontend-863a14f5cd2b)
 - 🎤 [Interview for DevExperience](http://devexperience.ro/blog/interview-sebastian-golasch/)
+- 🎤 [Interview for lawless.tech](https://lawless.tech/iot-expert-sebastian-golasch-we-need-more-regulations-and-better-protection-of-users-even-if-that-leads-us-to-cut-on-features/)
 
 ## 💬 Current Talk Topics
 
