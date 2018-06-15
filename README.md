@@ -64,7 +64,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [EME? CDM? DRM? CENC? IDK! @ O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | 🇺🇸  San José CA, USA | Thursday, June 14 2018 - 11:00am
 - [Your cyclomatic complexity is so 1.9,76 @ Fullstack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#program) | 🇬🇧  London, England | Wednesday, July - 3:45pm (Room 1)
 - [EME? CDM? DRM? CENC? IDK! @ Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | 🇩🇪  Erlangen, Germany | Wednesday, September 12 2018
 
@@ -103,9 +102,10 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [Webinale](https://webinale.de/web-architecture/eme-cdm-drm-cenc-idk/) | Berlin,&nbsp;🇩🇪 | June 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](#) |
+| [O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | San José (CA), 🇺🇸| June 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
+| [Webinale](https://webinale.de/web-architecture/eme-cdm-drm-cenc-idk/) | Berlin,&nbsp;🇩🇪 | June 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
 | [AmsterdamJS](https://amsterdamjs.com/) | Amsterdam,&nbsp;🇳🇱 | June, 2018 | 🇬🇧 &nbsp;[The dark ages of IoT v2](https://eventil.com/presentations/VpsxNY) | &nbsp;[🖥 Slides](https://de.slideshare.net/asciidisco/the-dark-ages-of-iot-v2) |
-| [HolyJS](https://holyjs-piter.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | St.Petersburg,&nbsp;🇷🇺 | May 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](#) |
+| [HolyJS](https://holyjs-piter.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | St.Petersburg,&nbsp;🇷🇺 | May 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
 | [WeAreDevelopers](https://www.wearedevelopers.com/) | Vienna,&nbsp;🇦🇹 | May, 2018 | 🇬🇧 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | &nbsp;[🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
 | [DevExperience](http://devexperience.ro/) | Iasi,&nbsp;🇷🇴 | April, 2018 | 🇬🇧 &nbsp;[Your cyclomatic complexity is so 1.9,76](https://speakerdex.co/asciidisco/your-cyclomatic-complexity-is-so-1-9-76-a1b30459) | [🖥 Slides](https://de.slideshare.net/asciidisco/your-cyclomatic-complexity-is-so-1976) |
 | [MiXit](https://mixitconf.org/en/) | Lyon,&nbsp;🇫🇷 | April, 2018 | 🇬🇧 &nbsp;[The dark ages of IoT](https://eventil.com/presentations/VpsxNY) | [🖥 Slides](https://de.slideshare.net/secret/jtVFPbyoes7VgK) |
