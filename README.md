@@ -59,13 +59,13 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 ## 💬 Current Talk Topics
 
 - [EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | JavaScript, Browser APIs, Web Video
-- [Your cyclomatic complexity is so 1.9,76](https://speakerdex.co/asciidisco/your-cyclomatic-complexity-is-so-1-9-76-a1b30459) | JavaScript, CSS, Code Metrics, Code Lifecycle Management
 - [The dark ages of IoT](https://speakerdex.co/asciidisco/the-dark-ages-of-iot-66ba549c) | UX, Hardware, IoT, Smart Home
 
 ## 🗣 Upcoming Events
 
 - [Your cyclomatic complexity is so 1.9,76 @ Fullstack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#program) | 🇬🇧  London, England | Wednesday, July - 3:45pm (Room 1)
 - [EME? CDM? DRM? CENC? IDK! @ Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | 🇩🇪  Erlangen, Germany | Wednesday, September 12 2018
+- [EME? CDM? DRM? CENC? IDK! @ WebCamp Zagreb](https://2018.webcampzg.org/talks/eme-cdm-drm-cenc-idk/) | 🇭🇷  Zagreb, Croatia | Friday, October 5 2018
 
 ## 💻 Open Source Projects
 
