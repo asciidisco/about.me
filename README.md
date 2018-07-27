@@ -58,6 +58,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 💬 Current Talk Topics
 
+- [The Universal Serial Web](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | JavaScript, Browser APIs, IoT
 - [EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | JavaScript, Browser APIs, Web Video
 
 ## 🗣 Upcoming Events
