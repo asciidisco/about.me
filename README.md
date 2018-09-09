@@ -65,6 +65,9 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 - [EME? CDM? DRM? CENC? IDK! @ Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | 🇩🇪  Erlangen, Germany | Wednesday, September 12 2018
 - [EME? CDM? DRM? CENC? IDK! @ WebCamp Zagreb](https://2018.webcampzg.org/talks/eme-cdm-drm-cenc-idk/) | 🇭🇷  Zagreb, Croatia | Friday, October 5 2018
+- [TBA. @ JS-Poland](http://www.js-poland.pl/sebastian-golasch.html) | 🇵🇱 Warsaw, Poland | Friday, November 16 2018
+- [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Friday, November 24 2018
+
 
 ## 💻 Open Source Projects
 
