@@ -98,8 +98,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Past Presentations
 
-- [Your cyclomatic complexity is so 1.9,76 @ Fullstack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#program) | 🇬🇧  London, England | Wednesday, July - 3:45pm (Room 1)
-
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
 | [Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | Erlangen, 🇩🇪 | September 2018 | 🇩🇪&nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) <br> [📹 Video](https://www.video.uni-erlangen.de/clip/id/9484) |
