@@ -52,9 +52,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 🤖 [Dalek.js](http://dalekjs.com) My failed attempt to make UI testing accessible for everyone
 - 📰 [Articles I recommend](https://getpocket.com/@asciidisco)
 - 🐰 [List of Web Conferences 2018 I curate](https://github.com/asciidisco/web-conferences-2018)
-- 🎤 [Interview for Amsterdam JS](https://medium.com/@amsterdamjs/sebastian-golasch-crazy-hacks-suit-iot-just-as-much-as-frontend-863a14f5cd2b)
-- 🎤 [Interview for DevExperience](http://devexperience.ro/blog/interview-sebastian-golasch/)
-- 🎤 [Interview for lawless.tech](https://lawless.tech/iot-expert-sebastian-golasch-we-need-more-regulations-and-better-protection-of-users-even-if-that-leads-us-to-cut-on-features/)
 
 ## 💬 Current Talk Topics
 
@@ -63,9 +60,8 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [EME? CDM? DRM? CENC? IDK! @ Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | 🇩🇪  Erlangen, Germany | Wednesday, September 12 2018
 - [EME? CDM? DRM? CENC? IDK! @ WebCamp Zagreb](https://2018.webcampzg.org/talks/eme-cdm-drm-cenc-idk/) | 🇭🇷  Zagreb, Croatia | Friday, October 5 2018
-- [TBA. @ JS-Poland](http://www.js-poland.pl/sebastian-golasch.html) | 🇵🇱 Warsaw, Poland | Friday, November 16 2018
+- [The Universal Serial Web @ Dachfest](https://dachfest.com/speakers/asciidisco/) | 🇩🇪 Munich, Germany | Saturday, November 10 2018
 - [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Friday, November 24 2018
 
 
@@ -106,6 +102,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
+| [Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | Erlangen, 🇩🇪 | September 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) <br> [📹 Video](https://www.video.uni-erlangen.de/clip/id/9484) |
 | [Fullstack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things#program) | London, 🇬🇧| July 2018 | 🇬🇧 &nbsp;[Your cyclomatic complexity is so 1.9,76](https://speakerdex.co/asciidisco/your-cyclomatic-complexity-is-so-1-9-76-a1b30459) | [🖥 Slides](https://de.slideshare.net/asciidisco/your-cyclomatic-complexity-is-so-1976) |
 | [O´Reilly Fluent Conf](https://conferences.oreilly.com/fluent/fl-ca/public/schedule/grid/public/2018-06-14) | San José (CA), 🇺🇸| June 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
 | [Webinale](https://webinale.de/web-architecture/eme-cdm-drm-cenc-idk/) | Berlin,&nbsp;🇩🇪 | June 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
@@ -154,6 +151,12 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 | CologneJS User Group | Cologne,&nbsp;🇩🇪 | May, 2012 | 🇩🇪 &nbsp;You want to do WHAT with JavaScript!? | [🖥 Slides](http://btplay.asciidisco.com/) <br> [📹 Video](https://vimeo.com/43957346) |
 | [Beyond Tellerand](https://beyondtellerrand.com) | Cologne,&nbsp;🇩🇪 | April, 2012 | 🇬🇧 &nbsp;[You want to do WHAT with JavaScript?!](https://beyondtellerrand.com/events/cologne-playandmake-2012/speakers/sebastian-golasch) | [🖥 Slides](http://btplay.asciidisco.com/) |
 | [Multimediatreff](http://www.multimediatreff.de/) | Cologne,&nbsp;🇩🇪 | December, 2011 | 🇩🇪 &nbsp;All your servers are belong to us | [🖥 Slides](http://mmt.asciidisco.com/) <br> [📹 Video](https://www.youtube.com/watch?v=tw-FjmuzlVc) |
+
+## 🎤 Interviews
+
+- 🇬🇧 [Interview for Amsterdam JS](https://medium.com/@amsterdamjs/sebastian-golasch-crazy-hacks-suit-iot-just-as-much-as-frontend-863a14f5cd2b)
+- 🇬🇧 [Interview for DevExperience](http://devexperience.ro/blog/interview-sebastian-golasch/)
+- 🇬🇧 [Interview for lawless.tech](https://lawless.tech/iot-expert-sebastian-golasch-we-need-more-regulations-and-better-protection-of-users-even-if-that-leads-us-to-cut-on-features/)
 
 ## 📻 Podcasts
 
