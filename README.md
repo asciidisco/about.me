@@ -61,7 +61,10 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 ## 🗣 Upcoming Events
 
 - [The Universal Serial Web @ Dachfest](https://dachfest.com/speakers/asciidisco/) | 🇩🇪 Munich, Germany | Saturday, November 10 2018
-- [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Friday, November 24 2018
+- [EME? CDM? DRM? CENC? IDK! @ Frontmania](http://www.frontmania.com/conference/schedule) | 🇳🇱 Utrecht, Netherlands | Friday, November 16 2018 - 10am @ Silentdisco 1
+- [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Saturday, November 24 2018 - 3:30pm @ Track 3
+- [EME? CDM? DRM? CENC? IDK! @ ct' Webdev](https://ctwebdev.de/) | 🇩🇪 Cologne, Germany | Wednesday, February 6 2019
+- [TBA. @ Think About](https://think-about.io/en/) | 🇩🇪 Cologne, Germany | Thrusday, May 23 2019
 
 
 ## 💻 Open Source Projects
