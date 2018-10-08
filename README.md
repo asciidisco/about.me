@@ -69,6 +69,8 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 💻 Open Source Projects
 
+- [audit-badge](https://github.com/asciidisco/audit-badge) | Creates a badge that sums up all your vulnarable JS dependencies | 🄹🅂 
+- [cfp-magick](https://github.com/asciidisco/cfp-magick) | List conferences with open CFPs fron within your terminal | 🄹🅂 
 - [deepspeech-demo](https://github.com/asciidisco/deepspeech-demo) | Demo (Web)App for Mozillas DeepSpeech project | 🄹🅂 
 - [plugin.video.netflix](https://github.com/asciidisco/plugin.video.netflix) | A native Netflix streaming plugin for the Kodi Media Center  | 🄿🅈🅃🄷🄾🄽
 - [plugin.video.telekom-sport](https://github.com/asciidisco/plugin.video.telekom-sport) | A native Telekom Sport streaming plugin for the Kodi Media Center  | 🄿🅈🅃🄷🄾🄽
