@@ -60,7 +60,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [EME? CDM? DRM? CENC? IDK! @ Frontmania](http://www.frontmania.com/conference/schedule) | 🇳🇱 Utrecht, Netherlands | Friday, November 16 2018 - 10am @ Silentdisco 1
 - [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Saturday, November 24 2018 - 3:30pm @ Track 3
 - [EME? CDM? DRM? CENC? IDK! @ ct' Webdev](https://ctwebdev.de/) | 🇩🇪 Cologne, Germany | Wednesday, February 6 2019
 - [TBA. @ Think About](https://think-about.io/en/) | 🇩🇪 Cologne, Germany | Thrusday, May 23 2019
@@ -103,6 +102,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
+| [Frontmania](http://www.frontmania.com/conference/schedule) | Utrecht, 🇳🇱 | November 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
 | [DACHFest](https://dachfest.com/schedule/2018-11-10?sessionId=serialweb) | Munich, 🇩🇪 | November 2018 | 🇬🇧 &nbsp;[The Universal Serial Web](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://t.co/731Wd7KaGt) |
 | [WebCamp Zagreb](https://2018.webcampzg.org/talks/eme-cdm-drm-cenc-idk/) | Zagreb, 🇭🇷 | October 2018 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) |
 | [Webkongress Erlangen](https://www.webkongress.fau.de/talks/eme-cdm-drm-cenc-idk/) | Erlangen, 🇩🇪 | September 2018 | 🇩🇪&nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk) <br> [📹 Video](https://www.video.uni-erlangen.de/clip/id/9484) |
