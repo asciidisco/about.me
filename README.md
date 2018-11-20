@@ -60,7 +60,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Saturday, November 24 2018 - 3:30pm @ Track 3
+- [The Universal Serial Web @ Holy JS](https://holyjs-moscow.ru/en/speakers/ifodmbcfwygy4ac8eqscg/) | 🇷🇺 Moscow, Russia | Sunday, November 25 2018 - 2:00pm @ Track 2
 - [The Universal Serial Web @ WWNRW](https://www.meetup.com/de-DE/Webworker-NRW/) | 🇩🇪 Düsseldorf, Germany | Wednesday, December 12 2018
 - [EME? CDM? DRM? CENC? IDK! @ ct' Webdev](https://ctwebdev.de/) | 🇩🇪 Cologne, Germany | Wednesday, February 6 2019
 - [TBA. @ Think About](https://think-about.io/en/) | 🇩🇪 Cologne, Germany | Thrusday, May 23 2019
