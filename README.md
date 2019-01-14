@@ -168,6 +168,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 📻 Podcasts
 
+- 🇩🇪 Workingdraft - [Revision 370: Internationalisierung und Lokalisierung](https://workingdraft.de/370/)
 - 🇩🇪 Workingdraft - [Revision 335: EME? CDM? DRM? CENC? IDK!](http://workingdraft.de/335/)
 - 🇩🇪 Workingdraft - [Revision 153: Typecsset und die Web Speech API](http://workingdraft.de/153/)
 - 🇩🇪 Workingdraft - [Revision 132: Rund ums Testen](http://workingdraft.de/132/)
