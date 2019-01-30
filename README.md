@@ -28,7 +28,7 @@
 
 Sebastian works as a “Specialist Senior Manager Software Developer” at Deutsche Telekom, after some time developing backend applications with Java and PHP he became a citizen of the JavaScript world. 
 Recently he´s getting his hands dirty with Python and Rust.
-For the last six years Sebastian tries to improve our lives, working on Deutsche Telekoms Smart Home platform Qivicon.
+For the last seven years Sebastian tries to improve our lives, working on Deutsche Telekoms Smart Home platform Qivicon.
 
 Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d have joined Starfleet…”
 
