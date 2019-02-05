@@ -62,6 +62,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 - [EME? CDM? DRM? CENC? IDK! @ ct' Webdev](https://ctwebdev.de/) | 🇩🇪 Cologne, Germany | Thursday, February 7 2019 - 1:25pm @ Track 3
 - [The Universal Serial Web @ Frontend Rhein Main](https://twitter.com/frontend_rm) | 🇩🇪 Darmstadt, Germany | Thursday, February 21 2019
+- [The Universal Serial Web @ Booster Conf](https://2019.boosterconf.no/) | 🇳🇴 Bergen, Norway | Thursday, March 14 2019
 - [The Universal Serial Web @ Web Engineering Aachen](https://www.meetup.com/de-DE/Web-Engineering-Aachen/) | 🇩🇪 Aachen, Germany | Wednesday, March 27 2019
 - [EME? CDM? DRM? CENC? IDK! @ Web Engineering Düsseldorf](https://www.meetup.com/de-DE/Web-Engineering-Duesseldorf/events/) | 🇩🇪 Düsseldorf, Germany | Thursday, March 28 2019
 - [The Universal Serial Web @ JSFest](http://jsfest.com.ua/indexe.html) | 🇺🇦 Kiev, Ukraine | Thursday, April 5 2019
