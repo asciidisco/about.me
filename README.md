@@ -60,11 +60,14 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
+- [The Universal Serial Web @ Think About Meetup](https://www.meetup.com/de-DE/Think-About-about-Tech-Design-and-their-impact-on-Society/events/bhhvrqyzfbkb/) | 🇩🇪 Cologne, Germany | Thursday, March 7 2019
 - [The Universal Serial Web @ Booster Conf](https://2019.boosterconf.no/) | 🇳🇴 Bergen, Norway | Thursday, March 14 2019
 - [The Universal Serial Web @ Web Engineering Aachen](https://www.meetup.com/de-DE/Web-Engineering-Aachen/) | 🇩🇪 Aachen, Germany | Wednesday, March 27 2019
 - [EME? CDM? DRM? CENC? IDK! @ Web Engineering Düsseldorf](https://www.meetup.com/de-DE/Web-Engineering-Duesseldorf/events/) | 🇩🇪 Düsseldorf, Germany | Thursday, March 28 2019
 - [The Universal Serial Web @ JSFest](http://jsfest.com.ua/indexe.html) | 🇺🇦 Kiev, Ukraine | Thursday, April 5 2019
+- [The Universal Serial Web @ FrontConf](https://frontconf.com/) | 🇩🇪 Munich, Germany | Satuday, April 27 2019
 - [Intranet of Things @ Think About](https://think-about.io/en/) | 🇩🇪 Cologne, Germany | Thursday, May 23 2019
+- [The Universal Serial Web @ EnterJS](https://www.enterjs.de/) | 🇩🇪 Darmstadt, Germany | Tuesday, June 25 2019
 
 
 ## 💻 Open Source Projects
