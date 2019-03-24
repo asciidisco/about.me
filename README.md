@@ -60,8 +60,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [The Universal Serial Web @ Think About Meetup](https://www.meetup.com/de-DE/Think-About-about-Tech-Design-and-their-impact-on-Society/events/bhhvrqyzfbkb/) | 🇩🇪 Cologne, Germany | Thursday, March 7 2019
-- [The Universal Serial Web @ Booster Conf](https://2019.boosterconf.no/) | 🇳🇴 Bergen, Norway | Thursday, March 14 2019
 - [The Universal Serial Web @ Web Engineering Aachen](https://www.meetup.com/de-DE/Web-Engineering-Aachen/) | 🇩🇪 Aachen, Germany | Wednesday, March 27 2019
 - [EME? CDM? DRM? CENC? IDK! @ Web Engineering Düsseldorf](https://www.meetup.com/de-DE/Web-Engineering-Duesseldorf/events/) | 🇩🇪 Düsseldorf, Germany | Thursday, March 28 2019
 - [The Universal Serial Web @ JSFest](http://jsfest.com.ua/indexe.html) | 🇺🇦 Kiev, Ukraine | Thursday, April 5 2019
@@ -107,6 +105,8 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
+| [Booster Conf](https://2019.boosterconf.no/) | Bergen,&nbsp;🇳🇴 | March 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
+| [Think About Meetup](https://www.meetup.com/de-DE/Think-About-about-Tech-Design-and-their-impact-on-Society/events/bhhvrqyzfbkb/) | Cologne,&nbsp;🇩🇪 | March 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
 | [Frontend Rhein Main](https://twitter.com/frontend_rm) | Darmstadt,&nbsp;🇩🇪 | February 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
 | [ct Webdev](https://ctwebdev.de/programm.html) | Cologne,&nbsp;🇩🇪 | February 2019 | 🇬🇧&nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk)
 | [WWNRW](https://www.meetup.com/de-DE/Webworker-NRW/) | Düsseldorf,&nbsp;🇩🇪 | December 2018 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
