@@ -60,7 +60,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [The Universal Serial Web @ FrontConf](https://frontconf.com/) | 🇩🇪 Munich, Germany | Satuday, April 27 2019
 - [Intranet of Things @ Think About](https://think-about.io/en/) | 🇩🇪 Cologne, Germany | Thursday, May 23 2019
 - [The Universal Serial Web @ EnterJS](https://www.enterjs.de/) | 🇩🇪 Darmstadt, Germany | Tuesday, June 25 2019
 
@@ -102,6 +101,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
  
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
+| [FrontConf](https://frontconf.com/) | Munich,&nbsp;🇩🇪 | April 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://de.slideshare.net/asciidisco/universalserialweb-frontconf) |
 | [JSFest](http://jsfest.com.ua/indexe.html) | Kiev,&nbsp;🇺🇦 | April 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
 | [Web Engineering Düsseldorf](https://www.meetup.com/de-DE/Web-Engineering-Duesseldorf/events/) | Düsseldorf,&nbsp;🇩🇪 | March 2019 | 🇬🇧&nbsp;[EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/eme-cdm-drm-cenc-idk)
 | [Web Engineering Aachen](https://www.meetup.com/de-DE/Web-Engineering-Aachen/) | Aachen,&nbsp;🇩🇪 | March 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
