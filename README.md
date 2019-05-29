@@ -55,13 +55,16 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 💬 Current Talk Topics
 
+- [WebRTC: Serverless, this time's for real](https://speakerdex.co/asciidisco/webrtc-serverless-this-time-s-for-real-3abda0b7) | JavaScript, WebRTC, Decentralization, Browser APIs
+- [The Intrante of Things](https://speakerdex.co/asciidisco/the-intranet-of-things-6dfeaf54) | IoT, Privacy, Smart Home
 - [The Universal Serial Web](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | JavaScript, Browser APIs, IoT
 - [EME? CDM? DRM? CENC? IDK!](https://speakerdex.co/asciidisco/eme-cdm-drm-cenc-idk-3949dc44) | JavaScript, Browser APIs, Web Video
 
 ## 🗣 Upcoming Events
 
-- [The Universal Serial Web @ EnterJS](https://www.enterjs.de/) | 🇩🇪 Darmstadt, Germany | Tuesday, June 25 2019
-- [ArmadaJS](https://www.armada-js.com/) | 🇷🇸 Novi Sad, Serbia | Thursday, September 20 2019
+- [WebRTC: Serverless, this time's for real @ DarmstadtJS](https://www.meetup.com/de-DE/DarmstadtJS/) | 🇩🇪 Darmstadt, Germany | Tuesday, June 25 2019
+- [The Universal Serial Web @ EnterJS](https://www.enterjs.de/) | 🇩🇪 Darmstadt, Germany | Thursday, June 27 2019, 4:15pm (Lounge)
+- [WebRTC: Serverless, this time's for real @ ArmadaJS](https://www.armada-js.com/) | 🇷🇸 Novi Sad, Serbia | Thursday, September 20 2019
 
 
 ## 💻 Open Source Projects
