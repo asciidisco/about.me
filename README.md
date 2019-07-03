@@ -51,7 +51,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 😂 [Punked by Böhmermann](https://entwickler.de/online/blog/punked-by-boehmermann-185362.html)
 - 🤖 [Dalek.js](http://dalekjs.com) My failed attempt to make UI testing accessible for everyone
 - 📰 [Articles I recommend](https://getpocket.com/@asciidisco)
-- 🐰 [List of Web Conferences 2018 I curate](https://github.com/asciidisco/web-conferences-2018)
+- 🐰 [List of Web Conferences 2018 I curated](https://github.com/asciidisco/web-conferences-2018)
 
 ## 💬 Current Talk Topics
 
@@ -62,9 +62,10 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [WebRTC: Serverless, this time's for real @ DarmstadtJS](https://www.meetup.com/de-DE/DarmstadtJS/) | 🇩🇪 Darmstadt, Germany | Tuesday, June 25 2019
-- [The Universal Serial Web @ EnterJS](https://www.enterjs.de/) | 🇩🇪 Darmstadt, Germany | Thursday, June 27 2019, 4:15pm (Lounge)
-- [WebRTC: Serverless, this time's for real @ ArmadaJS](https://www.armada-js.com/) | 🇷🇸 Novi Sad, Serbia | Thursday, September 20 2019
+- [EME? CDM? DRM? CENC? IDK! @ NebraskaJSConf](https://2019.nejsconf.com/speakers/sebastian-golasch/) | 🇺🇸 Omaha (Nebraska), USA | Friday, August 8 2019 
+- [WebRTC: Serverless, this time's for real @ ArmadaJS](https://www.armada-js.com/) | 🇷🇸 Novi Sad, Serbia | Thursday, September 20 2019 
+- [WebRTC: Serverless, this time's for real @ FrontManiaConference](https://frontmania.com/conference/) | 🇳🇱 Utrecht, Netherlands | Friday, November 15 2019
+- [The Intranet of Things @ FrontManiaConference](https://frontmania.com/conference/) | 🇳🇱 Utrecht, Netherlands | Friday, November 15 2019
 
 
 ## 💻 Open Source Projects
@@ -102,11 +103,10 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Past Presentations
  
- - [Intranet of Things @ Think About](https://think-about.io/en/) | 🇩🇪 Cologne, Germany | Thursday, May 23 2019
-
- 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
+| [EnterJS](https://www.enterjs.de/) | Darmstadt,&nbsp;🇩🇪 | June 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
+| [DarmstadtJS](https://www.meetup.com/de-DE/DarmstadtJS/) | Darmstadt,&nbsp;🇩🇪 | June 2019 | 🇬🇧 &nbsp;[WebRTC: Serverless, this time's for real](https://speakerdex.co/asciidisco/webrtc-serverless-this-time-s-for-real-3abda0b7) | &nbsp;🖥 Slides TBA. |
 | [Think About](https://think-about.io/en/) | Cologne,&nbsp;🇩🇪 | May 2019 | 🇬🇧 &nbsp;[The Intranet of Things](https://think-about.io/en/speakies/sebastian_golasch.html) | &nbsp;🖥 Slides TBA. |
 | [FrontConf](https://frontconf.com/) | Munich,&nbsp;🇩🇪 | April 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://de.slideshare.net/asciidisco/universalserialweb-frontconf) |
 | [JSFest](http://jsfest.com.ua/indexe.html) | Kiev,&nbsp;🇺🇦 | April 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
