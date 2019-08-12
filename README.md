@@ -50,7 +50,6 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 💖 To [Rachel](https://twitter.com/rachelnabors) for making some [amazing](https://dribbble.com/shots/1295210-Those-Hipster-Glasses) [Pokemon](https://dribbble.com/shots/1327258-Professor-JavaScript) [Prof.](https://rachelthegreat.deviantart.com/art/Sebastian-Professor-JavaScript-416257268) out of me
 - 😂 [Punked by Böhmermann](https://entwickler.de/online/blog/punked-by-boehmermann-185362.html)
 - 🤖 [Dalek.js](http://dalekjs.com) My failed attempt to make UI testing accessible for everyone
-- 📰 [Articles I recommend](https://getpocket.com/@asciidisco)
 - 🐰 [List of Web Conferences 2018 I curated](https://github.com/asciidisco/web-conferences-2018)
 
 ## 💬 Current Talk Topics
