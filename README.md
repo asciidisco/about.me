@@ -103,7 +103,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 | Event | Location | Date | Topic |       |
 |------|:-------:|:-----:|:------:|--------|
-| [NEJS Conf](https://2019.nejsconf.com/) | Omaha (NE), 🇺🇸| August 2019 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://www.slideshare.net/asciidisco/emecdmdrmcencidk) | 
+| [NEJS Conf](https://2019.nejsconf.com/) | Omaha (NE), 🇺🇸| August 2019 | 🇬🇧 &nbsp;[EME? CDM? DRM? CENC? IDK!](https://2019.nejsconf.com/speakers/sebastian-golasch/) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/emecdmdrmcencidk) |
 | [EnterJS](https://www.enterjs.de/) | Darmstadt,&nbsp;🇩🇪 | June 2019 | 🇬🇧 &nbsp;[The Universal Serial Web!](https://speakerdex.co/asciidisco/the-universal-serial-web-3b2f336f) | &nbsp;[🖥 Slides](https://www.slideshare.net/asciidisco/the-universal-serial-web-holyjs) |
 | [DarmstadtJS](https://www.meetup.com/de-DE/DarmstadtJS/) | Darmstadt,&nbsp;🇩🇪 | June 2019 | 🇬🇧 &nbsp;[WebRTC: Serverless, this time's for real](https://speakerdex.co/asciidisco/webrtc-serverless-this-time-s-for-real-3abda0b7) | &nbsp;🖥 Slides TBA. |
 | [Think About](https://think-about.io/en/) | Cologne,&nbsp;🇩🇪 | May 2019 | 🇬🇧 &nbsp;[The Intranet of Things](https://think-about.io/en/speakies/sebastian_golasch.html) | &nbsp;🖥 Slides TBA. |
