@@ -184,6 +184,11 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 - 🇩🇪 Workingdraft - [Revision 86: CAS und Object.observe](http://workingdraft.de/86/)
 - 🇩🇪 Workingdraft - [Revision 76: Testen, Dokumentieren und Abhängigkeiten verwalten](http://workingdraft.de/76/)
 
+## 📽️ Webcasts
+
+- 🇬🇧 [Smashing Webinar: The Web of Things — The Story Of A Browser Escaping Into The Physical World](https://www.smashingmagazine.com/smashing-tv/web-of-things-story-of-browser-escaping-into-physical-world/)
+- 🇬🇧 [DalekJS Screencasts](https://vimeo.com/search?q=dalekjs)
+
 ## ✏️ Technical Writing
 
 ### 🌐 Online
