@@ -59,6 +59,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
+- [WebRTC: Serverless, this time's for real @ Web Meetup Cologne](https://www.meetup.com/de-DE/Web-Meetup-Cologne/events/263936937/) | 🇩🇪 Cologne, Germany | Tuesday, August 27 2019 
 - [WebRTC: Serverless, this time's for real @ ArmadaJS](https://www.armada-js.com/) | 🇷🇸 Novi Sad, Serbia | Thursday, September 20 2019 
 - [WebRTC: Serverless, this time's for real @ FrontManiaConference](https://frontmania.com/conference/) | 🇳🇱 Utrecht, Netherlands | Friday, November 15 2019
 
