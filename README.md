@@ -177,12 +177,18 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 📻 Podcasts
 
+- 🇬🇧 TalkScript - [Episode 40: Beyond JavaScript](https://www.sitepen.com/blog/episode-40-beyond-javascript/)
 - 🇩🇪 Workingdraft - [Revision 370: Internationalisierung und Lokalisierung](https://workingdraft.de/370/)
 - 🇩🇪 Workingdraft - [Revision 335: EME? CDM? DRM? CENC? IDK!](http://workingdraft.de/335/)
+- 🇩🇪 Workingdraft - [Revision 181: Module, Events, Verlosung](https://workingdraft.de/181/)
+- 🇩🇪 Workingdraft - [Revision 161: Too Easy, Didn’t Learn](https://workingdraft.de/161/)
 - 🇩🇪 Workingdraft - [Revision 153: Typecsset und die Web Speech API](http://workingdraft.de/153/)
 - 🇩🇪 Workingdraft - [Revision 132: Rund ums Testen](http://workingdraft.de/132/)
+- 🇩🇪 Workingdraft - [Revision 108: asm.js, UA Sniffing und Operas Wechsel zu WebKit](https://workingdraft.de/108/)
 - 🇩🇪 Workingdraft - [Revision 105: CSS-Performance, Web Workers und ein paar Links](http://workingdraft.de/105/)
+- 🇩🇪 Workingdraft - [Revision 90: .mobi-Gate, Persona und TypeScript](https://workingdraft.de/90/)
 - 🇩🇪 Workingdraft - [Revision 86: CAS und Object.observe](http://workingdraft.de/86/)
+- 🇩🇪 Workingdraft - [Revision 84: jQuery, Git, Informationsverwaltung und jede Menge Links](http://workingdraft.de/84/)
 - 🇩🇪 Workingdraft - [Revision 76: Testen, Dokumentieren und Abhängigkeiten verwalten](http://workingdraft.de/76/)
 
 ## 📽️ Webcasts
