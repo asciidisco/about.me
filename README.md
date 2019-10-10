@@ -59,7 +59,7 @@ Famous last words: “If I would’ve wanted to work in ‘Enterprise’, I’d 
 
 ## 🗣 Upcoming Events
 
-- [WebRTC: The Intranet of Things @ FrontManiaConference](https://frontmania.com/conference/) | 🇳🇱 Utrecht, Netherlands | Friday, November 15 2019 - 1pm, Track 1
+- [The Intranet of Things @ FrontManiaConference](https://frontmania.com/conference/) | 🇳🇱 Utrecht, Netherlands | Friday, November 15 2019 - 1pm, Track 1
 - [WebRTC: Serverless, this time's for real @ Web Tech Bonn](https://www.meetup.com/de-DE/WebTech-Bonn/events/264578958/) | 🇩🇪 Bonn, Germany | Wednesday, December 4th 2019 - 7pm
 
 ## 💻 Open Source Projects
